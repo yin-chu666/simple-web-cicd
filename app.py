@@ -1,5 +1,5 @@
 """
-极简 Flask Web 应用 — CI/CD 实验演示
+极简 Flask Web 应用 — CI/CD 实验演示项目版本 2.0
 """
 from flask import Flask, render_template_string
 
